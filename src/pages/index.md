@@ -3,7 +3,7 @@ templateKey: 'index-page'
 title: 'Adult Baseball Indy'
 image: /img/Baseball1.jpg  
 heading: Welcome to Adult Baseball Indy
-subheading: Support sustainable farming while enjoying a cup
+subheading: Living the Dream! 
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
