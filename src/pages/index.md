@@ -1,7 +1,7 @@
 ---
 templateKey: 'index-page'
 title: 'Adult Baseball Indy'
-image: /img/home-jumbotron.jpg  
+image: /img/Baseball1.jpg  
 heading: Welcome to Adult Baseball Indy
 subheading: Support sustainable farming while enjoying a cup
 description: >-
