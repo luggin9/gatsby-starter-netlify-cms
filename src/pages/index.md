@@ -1,8 +1,8 @@
 ---
 templateKey: 'index-page'
-title: 'Great coffee with a conscience'
+title: 'Adult Baseball Indy'
 image: /img/baseball.jpg 
-heading: Great coffee with a conscience
+heading: Welcome to Adult Baseball Indy
 subheading: Support sustainable farming while enjoying a cup
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
