@@ -30,7 +30,7 @@ export const IndexPageTemplate = ({
       <div
         style={{
           display: 'flex',
-          height: '350px',
+          height: '150px',
           lineHeight: '1',
           justifyContent: 'space-around',
           alignItems: 'left',
