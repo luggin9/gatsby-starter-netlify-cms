@@ -31,7 +31,7 @@ export const IndexPageTemplate = ({
         style={{
           display: 'flex',
           height: '150px',
-          lineHeight: '1',
+          lineHeight: '4',
           justifyContent: 'space-around',
           alignItems: 'left',
           flexDirection: 'column',
@@ -44,7 +44,7 @@ export const IndexPageTemplate = ({
               'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
             backgroundColor: 'rgb(255, 68, 0)',
             color: 'white',
-            lineHeight: '1',
+            lineHeight: '4',
             padding: '0.25em',
           }}
         >
@@ -57,7 +57,7 @@ export const IndexPageTemplate = ({
               'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
             backgroundColor: 'rgb(255, 68, 0)',
             color: 'white',
-            lineHeight: '1',
+            lineHeight: '4',
             padding: '0.25em',
           }}
         >
